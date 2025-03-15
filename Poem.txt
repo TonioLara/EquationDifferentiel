@@ -7,4 +7,4 @@ Green
 Orange
 Jaune 
 Red
-These are the colors of the rainbow.
+These are the colors of the rainbow...
